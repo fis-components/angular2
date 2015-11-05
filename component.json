@@ -1,0 +1,7 @@
+{
+    "repos": "https://github.com/angular/angular.git",
+    "version": "2.0.0-alpha.45",
+    "description": "HTML enhanced for web apps http://angularjs.org",
+    "name": "angular2",
+    "main": "angular2.js"
+}
